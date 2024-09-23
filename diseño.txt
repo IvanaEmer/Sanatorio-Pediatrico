@@ -1,0 +1,2 @@
+1 Agrandar fuente a nro 12
+2 Cambiar color en el titulo
