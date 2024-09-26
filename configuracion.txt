@@ -1,1 +1,2 @@
 1. Ver si Julia agrega Archivo  nuevo
+Eliminar el medico de fila 2
